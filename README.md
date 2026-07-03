@@ -15,6 +15,9 @@ A React-based web application that generates professional cover letters using th
 - Vite
 - Google Gemini API
 - CSS
+
+## Live Website
+https://cover-letter-generator-peach-sigma.vercel.app/
 ## Screenshots
 ![Project Screenshot](a.png)
 ![Project Screenshot](b.png)
