@@ -16,4 +16,4 @@ A React-based web application that generates professional cover letters using th
 - Google Gemini API
 - CSS
 ## Screenshots
-![Project Screenshot](p.png)
+![Project Screenshot](Screenshot(58).png)
