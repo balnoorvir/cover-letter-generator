@@ -15,3 +15,5 @@ A React-based web application that generates professional cover letters using th
 - Vite
 - Google Gemini API
 - CSS
+## Screenshots
+![Project Screenshot](p.png)
